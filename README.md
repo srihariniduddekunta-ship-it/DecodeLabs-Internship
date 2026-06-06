@@ -35,4 +35,8 @@ This is a simple rule-based AI chatbot developed using Python. The chatbot respo
 - thank you
 - bye
 
+## Sample Output
 
+### Chatbot Screenshot
+
+![Chatbot Output](output.png) 
